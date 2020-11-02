@@ -1,6 +1,6 @@
 /*
 
-Template: Medileaf - Health and Medical HTML Template
+Template: 24/7 HCA - Health and Medical HTML Template
 Author: potenzaglobalsolutions
 Design and Developed by: potenzaglobalsolutions.com
 
