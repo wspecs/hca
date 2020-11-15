@@ -1,3 +1,34 @@
 {
-	"phone": "(123) 456-7890"
+	"phone": "(123) 456-9090",
+	"address": {
+		"line1": "590 E. Whitemarsh Street",
+		"line2": "Orlando, FL 32810"
+	},
+	"email": "helpcenter@247hca.com",
+	"tagHeader": "Excellent care with a warmth and healing spirit",
+	"tag": "Feel better at home",
+	"mission": "To provide The mission of 24/7 HealthCare Agency is to provide excellence of care with warmth and spirit of healing",
+	"vision": "To set a standard for quality of care",
+	"services": [
+		{"name": "Skilled nursing services"},
+		{"name": "Home health aide services"},
+		{"name": "Physical therapy"},
+		{"name": "Speech-language pathology services"},
+		{"name": "Occupational therapy services"},
+		{"name": "Medical social services"},
+		{"name": "Home medical equipments"}
+	],
+	"programs": [
+		{"name": "Certified Nursing Assistant Course"},
+		{"name": "Home Health Aid Course"},
+		{"name": "CPR Course"},
+		{"name": "ACLS/ PALS Course"},
+		{"name": "Community Health Education"}
+	],
+	"aboutUs": {
+		"summary": ["When it comes to seeking home care for your loved one, there are probably many questions running through your mind about finding a trustworthy caregiver or knowing what to expect from home care. The transition to home can be full of uncertainty, and it’s difficult to know which home care agency to trust. It’s helpful and reassuring to have an experienced and dependable home care provider like 24/7 HCA by your side. At 24/7 HCA, we match your loved one with one of our skilled local caregivers and develop a customized home care plan that meets his or her mental, physical, and psychosocial needs."],
+		"elevator": "Compassionate, professional home care is at the heart of everything we do.",
+		"commitment": "24/7 HealthCare Agency is committed to quality and compassionate care, staffed by caring and capable health care professionals and non-clinical administrative staff.",
+		"goal": "Our goal is to provide the assistance needed for our clients to remain as safe, healthy and happy as possible in the place they call home."
+	}
 }
