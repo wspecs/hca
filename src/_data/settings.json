@@ -1,10 +1,11 @@
 {
-	"phone": "(123) 456-9099",
+	"phone": "(321) 247-7178",
+	"fax": "(321) 247-9161",
 	"address": {
-		"line1": "590 E. Whitemarsh Street",
-		"line2": "Orlando, FL 32810"
+		"line1": "5050 S US Hwy 17/92 Suite 106",
+		"line2": "Casselberry, FL 32707"
 	},
-	"email": "helpcenter@247hca.com",
+	"email": "letstalk@247hca.com",
 	"tagHeader": "Excellent care with a warmth and healing spirit",
 	"tag": "Feel better at home",
 	"mission": "To provide The mission of 24/7 HealthCare Agency is to provide excellence of care with warmth and spirit of healing",
