@@ -25,11 +25,5 @@
 		{"name": "CPR Course"},
 		{"name": "ACLS/ PALS Course"},
 		{"name": "Community Health Education"}
-	],
-	"aboutUs": {
-		"summary": ["When it comes to seeking home care for your loved one, there are probably many questions running through your mind about finding a trustworthy caregiver or knowing what to expect from home care. The transition to home can be full of uncertainty, and it’s difficult to know which home care agency to trust. It’s helpful and reassuring to have an experienced and dependable home care provider like 24/7 HCA by your side. At 24/7 HCA, we match your loved one with one of our skilled local caregivers and develop a customized home care plan that meets his or her mental, physical, and psychosocial needs."],
-		"elevator": "Compassionate, professional home care is at the heart of everything we do.",
-		"commitment": "24/7 HealthCare Agency is committed to quality and compassionate care, staffed by caring and capable health care professionals and non-clinical administrative staff.",
-		"goal": "Our goal is to provide the assistance needed for our clients to remain as safe, healthy and happy as possible in the place they call home."
-	}
+	]
 }

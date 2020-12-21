@@ -1,0 +1,29 @@
+{
+	"summary": ["When it comes to seeking home care for your loved one, there are probably many questions running through your mind about finding a trustworthy caregiver or knowing what to expect from home care. The transition to home can be full of uncertainty, and it’s difficult to know which home care agency to trust. It’s helpful and reassuring to have an experienced and dependable home care provider like 24/7 HCA by your side. At 24/7 HCA, we match your loved one with one of our skilled local caregivers and develop a customized home care plan that meets his or her mental, physical, and psychosocial needs."],
+	"elevator": "Compassionate, professional home care is at the heart of everything we do.",
+	"commitment": "24/7 HealthCare Agency is committed to quality and compassionate care, staffed by caring and capable health care professionals and non-clinical administrative staff.",
+	"goal": "Our goal is to provide the assistance needed for our clients to remain as safe, healthy and happy as possible in the place they call home.",
+	"why": {
+		"title": "Cost effective use of Medicare dollars + reduced rehospitalizations!",
+		"reasons": [
+			{
+				"category": "Staff",
+				"name": "Caring Staff",
+				"detail": "Excellent customer satisfaction results. Bridges the gap between hospital or other facility and home.",
+				"image": "/assets/images/staff1.png"
+			},
+			{
+				"category": "Efficacy",
+				"name": "Long Term Wellness",
+				"detail": "Short-term participation reaps long-term benefits. Our staff encourage self-management that leads to independence.",
+				"image": "/assets/images/longterm.png"
+			},
+			{
+				"category": "Pricing",
+				"name": "Cost Effectiveness",
+				"detail": "Recuperate in the comfort of your own home with the support of your loved ones.",
+				"image": "/assets/images/homecare.png"
+			}
+		]
+	}
+}

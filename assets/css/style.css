@@ -100,7 +100,11 @@ p {
 ::selection {
   background: #006838;
   color: #ffffff;
-  text-shadow: none; }
+	text-shadow: none; }
+	
+.top-image{
+	margin-top: 105px;
+}
 
 .container-fluid.container-space {
   padding: 0 100px; }
@@ -401,7 +405,10 @@ form .form-group .input-group-text {
   background-color: #dfdfdf !important; }
 
 .bg-light {
-  background-color: #f6f6f6 !important; }
+	background-color: #f6f6f6 !important; }
+	
+.bg-whitesmoke {
+		background-color: whitesmoke !important; }
 
 /* Page section margin padding */
 .space-lg-ptb {
