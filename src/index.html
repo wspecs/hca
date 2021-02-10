@@ -43,7 +43,9 @@ eleventyExcludeFromCollections: true
                     </div>
                     <div class="schedule-morden-content">
                       <h6>Contact Us</h6>
-                      <span class="phone-number h4">{{emergency.contact}}</span>
+											<a href="tel:{{emergency.contact}}">
+                        <span class="phone-number h4">{{emergency.contact}}</span>
+											</a>
                       <p class="mb-0">{{emergency.message}}</p>
                     </div>
                   </div>
